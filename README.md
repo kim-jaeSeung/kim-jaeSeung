@@ -5,7 +5,7 @@
 
 ---
 
-- 🔗 [포트폴리오](https://kim-jaeseung.github.io/who/)
+🔗 [포트폴리오](https://kim-jaeseung.github.io/who/)
 
 ---
 ## 🔧 사용해본 기술들
